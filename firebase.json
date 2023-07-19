@@ -1,7 +1,7 @@
 {
   "hosting": [
     {
-      "target": "kanban-fire",
+      "site":"taskkanban",
       "source": ".",
       "frameworksBackend": {}
     }
