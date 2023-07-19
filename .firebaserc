@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanban-fire-8c5f3": {
+      "hosting": {
+        "kanban-fire": [
+          "kanban-fire-8c5f3"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanban-fire-8c5f3"
+  }
+}
