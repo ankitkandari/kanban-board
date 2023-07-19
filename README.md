@@ -2,7 +2,7 @@
 #### Angular+Firebase kanban board for maintaining your daily tasks.
 
 ## Demo
-#### Check [Demo here](https://pinkswill.onrender.com/)
+#### Check [Demo here](https://taskkanban.web.app)
 
 ## Setup environment variables
 #### After cloning this repo, make sure you create `environments` folder under `src`,then create `environment.ts` there with the following content
